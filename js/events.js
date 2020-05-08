@@ -29,7 +29,7 @@ function pressIt() {
 
 $(document).ready(function(){
   getIt()
-  frameIt() 
+  frameIt()
   submitIt()
   pressIt()
 });
